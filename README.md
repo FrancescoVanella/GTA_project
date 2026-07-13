@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Degradation as Trajectory Geometry — NASA C-MAPSS
 Anomaly detection project for *Geometric Learning, Time-Variant Data Analysis, and Anomaly Detection*.
 
@@ -50,3 +51,6 @@ Please cite the original NASA reference when reusing the data:
 ## Authors
 - **Luciano Selimaj**
 - **Francesco Vanella**
+=======
+# GTA_project
+>>>>>>> d9b7ef02afe382a4fd024c036b6a10b309f811dc
