@@ -1,0 +1,5 @@
+,pos,pos,net,net
+,mean,std,mean,std
+norm,,,,
+global,0.587,0.013,0.514,0.007
+per-regime,0.977,0.002,0.962,0.003

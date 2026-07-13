@@ -1,0 +1,11 @@
+,mean,std
+skyline (supervised),0.987,0.002
+position,0.977,0.002
+kNN-latent,0.977,0.001
+IForest-fusion,0.976,0.003
+Mahal-sensors,0.968,0.001
+VAE-ELBO (A4b),0.965,0.003
+net-displacement,0.962,0.003
+z-s11,0.959,0.009
+LOF-latent,0.918,0.049
+velocity,0.795,0.009

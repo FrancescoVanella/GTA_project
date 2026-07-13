@@ -1,0 +1,6 @@
+,,buffer,no-buffer
+FD001,B1 z-s11,0.991,0.972
+FD001,B2 Mahal-sensors,0.971,0.928
+FD004,B1 z-s11,0.991,0.969
+FD004,B2 Mahal-sensors,0.994,0.97
+FD004,B3 skyline (supervised),1.0,0.991

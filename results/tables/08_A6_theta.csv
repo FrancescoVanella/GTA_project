@@ -1,0 +1,7 @@
+,,net-displacement AUROC (FD004)
+20,buffer,0.999
+20,no-buffer,0.961
+30,buffer,0.998
+30,no-buffer,0.963
+50,buffer,0.991
+50,no-buffer,0.962

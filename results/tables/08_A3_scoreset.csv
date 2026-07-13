@@ -1,0 +1,4 @@
+,AUROC FD004 no-buffer
+pos,0.979
+pos+vel,0.973
+pos+vel+net,0.975
